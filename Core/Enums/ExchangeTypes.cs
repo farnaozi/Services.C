@@ -1,0 +1,10 @@
+﻿namespace Services.C.Core.Enums
+{
+    public enum ExchangeTypes
+    {
+        Direct,
+        Fanout,
+        Headers,
+        Topic
+    }
+}
